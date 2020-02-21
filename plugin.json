@@ -1,0 +1,30 @@
+{
+  "version"           : "1.0.0",
+  "name"              : "CreditByAuxmoney",
+  "marketplaceName"   : {"de": "auxmoney Firmenfinanzierung","en": "auxmoney Corporate Financing"},
+  "license"           : "",
+  "isExternalTool"    : true,
+  "pluginIcon"        : "auxmoney_logo_s.png",
+  "price"             : 0.00,
+  "description"       : "Antragsstrecke zur auxmoney Firmenfinanzierung",
+  "shortDescription"  : {"de": "auxmoney bietet dir digitlaen Zugang zu Darlehen, Leasing, Factoring & Einkaufsfinanzierung für deine Firma","en": "auxmoney corporate financing offers you digital access to loans, leasing, factoring & purchase financing"},
+  "categories"        : ["3521"],
+  "author"            : "auxmoney GmbH",
+  "authorIcon"        : "auxmoney_plugin_s.png",
+  "email"             : "vott@auxmoney.com",
+  "phone"             : "+49 211 737 10 15 33",
+  "keywords"          : ["auxmoney", "finanzierung", "kredit", "leasing", "factoring", "einkaufsfinanzierung"],
+  "type"              : "tool",
+
+  "directDownloadLinks" : {"Windows":"download-link", "MacOs":"download-link", "Linux":"download-link"},
+  "forwardLink"         : "https://www.auxmoney.com/partnerships/plentymarkets-finanzierung/",
+
+  "require"             : [],
+  "namespace"           : "CreditByAuxmoney",
+  "serviceProvider"     : "ExternalTool",
+  "javaScriptFiles"     : [],
+  "containers"          : [],
+  "dataProviders"       : [],
+  "dependencies"        : [],
+  "runOnBuild"          : []
+}
