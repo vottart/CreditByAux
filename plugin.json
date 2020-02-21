@@ -7,7 +7,7 @@
   "pluginIcon"        : "auxmoney_logo_s.png",
   "price"             : 0.00,
   "description"       : "Antragsstrecke zur auxmoney Firmenfinanzierung",
-  "shortDescription"  : {"de": "auxmoney bietet dir digitlaen Zugang zu Darlehen, Leasing, Factoring & Einkaufsfinanzierung für deine Firma","en": "auxmoney corporate financing offers you digital access to loans, leasing, factoring & purchase financing"},
+  "shortDescription"  : {"de": "auxmoney bietet dir digitalen Zugang zu Darlehen, Leasing, Factoring & Einkaufsfinanzierung für deine Firma","en": "auxmoney corporate financing offers you digital access to loans, leasing, factoring & purchase financing"},
   "categories"        : ["3521"],
   "author"            : "auxmoney GmbH",
   "authorIcon"        : "auxmoney_plugin_s.png",
